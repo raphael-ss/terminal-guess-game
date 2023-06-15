@@ -7,4 +7,4 @@ This is a guessing game. By default, we have 6 lockers.
     Just type in your guess and let the
     destiny (or the computer) tell you!
 
-    This game was made by rssdev
+
